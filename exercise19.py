@@ -13,7 +13,7 @@ bc=78
 
 cheese_crackers(cc,bc)
 
-print "wec an do math inside it"
+print "we can do math inside it"
 cheese_crackers(10+67,70+89)
 
 print "se can combine variables"
