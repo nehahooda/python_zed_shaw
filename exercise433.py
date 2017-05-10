@@ -27,7 +27,7 @@ class Death(Scene):
     ]
 
     def enter(self):
-        print Death.quips[randint(0, len(self.quips))]
+        print Death.quips[randint(0, len(self.quips)-1)]
         exit(1)
 
 
@@ -76,6 +76,107 @@ class CentralCorridor(Scene):
             print "DOES NOT COMPUTE!"
             return 'central_corridor'
 
+class LaserWeaponArmory(Scene):
+    def enter (self):
+        print """
+        You do a dive roll into the weapon Armory,crouch and scen the room
+        forn more Gothons that might be hiding .Its dead quiet ,too quiet .
+        You stand up and run to the far side of the room and find the
+        neutron bomb in it container.There's a keypad lock on the box.
+        and you need the code to get the bomb out.if you get the code
+        wrong 10 times then the close forever and you cant 
+        get the bomb.the code is 3 digits"""
+
+        code ="%d%d%d" %(randint(1,9),randint(1,9),randint(1,9))
+        guess = raw_input("[keypad]>")
+        guesses =0
+
+
+        while guess != code and guesses <10:
+            print "BZZZZZEDDDDD!"
+            guesses+=1
+            guess = raw_input("[keypad]>")
+
+        if guess == code:
+            print"""
+            The container clicks open and the eal breaks ,letting gas out.
+            You grab the neutron bomb and run as fast as you can to the 
+            bridge where yuo must place it in the right spot."""
+            return 'the_bridge'
+        else:
+            print """
+            The lock buzzes one last time and then you hear a sickening
+            melting sound as the mechanism is fused together.
+            You decide to sit there and finally the gothons blow up the 
+            ship from their ship and you die"""
+            return 'death'
+
+class TheBridge(Scene):
+    def enter(self):
+        print """
+        You burst onto the Bridges with the neutron destruct bomb
+        under your arm and suprise 5 gothons who  are trying to
+        take control of the ship. Each of them has an even uglier 
+        clown costume than the last .They haven't pulled their
+        weapons out yet,as they see the active bomb under your
+        arm and dont want to set it off."""
+
+        action = raw_input(">")
+
+        if action == "throw the bomb":
+            print """
+            Ina panic you throw the bomb at the group of gothons.
+            and make a leap for the door.Right as you drop it a
+            Gothon shoots you right in the back killing you."""
+
+            return 'death'
+        elif action =="slowly place the bomb":
+            print"""
+            you point your blaster at the bomb under your arm 
+            and the gothons put thier hands up and start to sweat.
+            you inch backward to the doo ,open it and then carefully 
+            place the bomb on the floor,pointing your blast at it
+            you then jump back through the door,punch close button
+            and blast the lock so the othons cant get out.
+            now the bomb is placed you run to the escape pod to
+            get off this tin can"""
+            return 'escape_pod'
+        else:
+            print "DOES NOT COMPUTE"
+            return "the_bridge"
+
+class EscapePod(Scene):
+
+        def enter(self):
+            print """
+            you rush through the ship desperately trying to make it to 
+            the escape pod before the whole ship explodes.it seems like
+            hardly any Gothons are on the ship,so your run is clear of interference.
+            You get to the chamber with the escape pods,and 
+            now need to pick up =one to take.Some of them might be damaged
+            byut you dont have time to look.there 5 pods,which one
+            do you take??"""
+
+            good_pod =randint(1,5)
+            guess = raw_input("[pod#]>")
+
+            if int (guess)!=good_pod:
+                print" you jump into pod %s and hit he eject button." %guess
+                print"""
+                the pod escpes out nto the void space ,then
+                implodes as the hull ruptures,crushing your body
+                into jam jelly"""
+                return "death"
+            else:
+                print "you jump into pod %s and hit the eject button."%guess
+                print"""
+                the pod easily slides out into the space heading to
+                the planet below.as it flies to the planet,you look
+                back and see your ship implode then explode like a 
+                briht star,taking out the gothon ship at the same 
+                time,YOU WON!!!!"""
+                return 'finished'
+
 
 class Map(object):
     scenes = {
@@ -94,3 +195,7 @@ class Map(object):
 
     def opening_scene(self):
         return self.next_scene(self.start_scene)
+
+a_map =Map('central_corridor')
+a_game =Engine(a_map)
+a_game.play()
