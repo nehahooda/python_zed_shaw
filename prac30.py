@@ -8,4 +8,4 @@ def wc(str):
             counts[word] =1
     return counts
 
-print( wc('the quick brown fox jumps over the lazy dog.'))
+print( wc('the quick brown fox jumps over the lazy dog and the lost bird.'))
