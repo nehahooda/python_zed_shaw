@@ -21,8 +21,8 @@ for i in range(1,5):
         print ('*')
 
 print '%5s'%'\n'
-
-for i in range(1,5):
-    print "$"
-
 '''
+for i in range(1,5):
+    printf('nnn')
+
+
