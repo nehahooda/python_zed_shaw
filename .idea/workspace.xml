@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c7ae0-cd65-4198-ae4e-8858b710ea05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac84.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac85.py" afterPath="$PROJECT_DIR$/prac85.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="prac83.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac83.py">
+      <file leaf-file-name="prac84.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac84.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prac84.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac84.py">
+      <file leaf-file-name="prac85.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac85.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prac38.py" />
         <option value="$PROJECT_DIR$/prac39.py" />
         <option value="$PROJECT_DIR$/prac40.py" />
         <option value="$PROJECT_DIR$/prac41.py" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/prac82.py" />
         <option value="$PROJECT_DIR$/prac83.py" />
         <option value="$PROJECT_DIR$/prac84.py" />
+        <option value="$PROJECT_DIR$/prac85.py" />
       </list>
     </option>
   </component>
@@ -220,7 +220,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="929" y="0" width="444" height="735" extended-state="0" />
+    <frame x="929" y="0" width="444" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -271,13 +271,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac38.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac39.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -621,6 +614,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac85.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
