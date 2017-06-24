@@ -15,6 +15,8 @@ class Myclass:
     def fun(self):
         print "HELLO"
 
+ob= Myclass()
 print(Myclass.a)
 print(Myclass.fun)
+ob.fun()
 print(Myclass.__doc__)
