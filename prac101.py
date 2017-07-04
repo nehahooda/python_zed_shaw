@@ -16,3 +16,11 @@ np.linspace(0,2,9)
 x,y,z = np.loadtxt('data.txt',
                    skiprows=1,
                    unpack=True)
+
+#importing another file
+my_array2= np.genfromtxt('data2.txt',
+                         skip_header =1,
+                         filling_values=-999)
+#saving files
+x= np.arange(0.0,5.0,1.0)
+np.savetext('test.out',x,delimiter=',')
