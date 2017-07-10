@@ -1,0 +1,55 @@
+1. print " "
+2. comments #
+3. print " ",numerical
+   print " ",7>4     #true
+4. print "",variable," "
+5. print " ",%variable
+   print "",%(v1,v2)
+6. x = " the value  %d of x " %10
+   print v1+ v2
+7. print "." *10 #print . 10 times
+8. formatter = "%r,%r
+   print formatter %(1,2)
+9. print """      type as u like      """
+10. variable = "abcdefhjklmno"
+11. print "what is your name"
+    name =raw_input()
+    print "your name is %r" %(name)
+12. name = raw_input("what is your name?")
+13. #parameters & stuff
+    from sys import argv
+    script,one,two =argv
+    print"the script is",script
+    print "the first variable is ",one
+14. prompt ='>'
+    computer = raw_input(prompt)
+15. #reading a file
+    txt =open(filename)
+    print txt.read()
+16. #truncating and writing a file
+    target =open(filename,'w')
+    target.truncate()
+    target.write(line1)
+    target.close()
+17. #copying
+    from os.path import exists
+    print "does it exists or not" %exists(t0_file)
+    in_file =open(from_file)
+    indata = in_file.read()
+    
+    out_file =open(to_file,'w')
+    out_file.write(indata)
+18. #functions
+    def print_two(arg1,arg2)
+        print"arg1:%r,arg2:%r" %(arg1,arg2)
+19. #calling functions
+    chesse_crackers(var1,var2)
+    chesse_crackers(10+2,23+4)
+    chesse_crackers(var1+2,var2+12)
+20. #functions and files
+    def rewind(f)
+        f.seek(0)
+21. #returning values
+     def div(a,b)
+         print"dividing values"
+         return a/b
