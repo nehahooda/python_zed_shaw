@@ -1,13 +1,15 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
-'''#DATA FOR 2014 TO 2015
+'''
+#DATA FOR 2014 TO 2015
 data1 = pd.read_csv('jun2014-jul2015.csv')
 headers1 = [ 'Date','Open','High', 'Low','Close','Volume']
 results1 = pd.DataFrame(data1)
 print(results1.head())
 results1['Average']= (results1['High'] + results1['Low'])/2
+print("THE DAYS WHEN THE CLOSING POINT WAS HIGHER THAN AVERAGE")
+print(data1[data1['Close'] > data1['Average']])
 data12 = data1[['Date','Close','High','Average']]
 avg = data12["Close"].mean()
 
@@ -26,6 +28,8 @@ headers2 = [ 'Date','Open','High', 'Low','Close','Volume']
 results2 = pd.DataFrame(data2)
 print(results2.head())
 results2['Average']= (results2['High'] + results2['Low'])/2
+print("THE DAYS WHEN THE CLOSING POINT WAS HIGHER THAN AVERAGE")
+print(data2[data2['Close'] > data2['Average']])
 data22 = data2[['Date','Close','High','Average']]
 avg = data22["Close"].mean()
 
@@ -43,6 +47,8 @@ headers3 = [ 'Date','Open','High', 'Low','Close','Volume']
 results3 = pd.DataFrame(data3)
 print(results3.head())
 results3['Average']= (results3['High'] + results3['Low'])/2
+print("THE DAYS WHEN THE CLOSING POINT WAS HIGHER THAN AVERAGE")
+print(data3[data3['Close'] > data3['Average']])
 data32 = data3[['Date','Close','High','Average']]
 
 avg = data32["Close"].mean()
