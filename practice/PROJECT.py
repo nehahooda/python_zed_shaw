@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-#DATA FOR 2014 TO 2015
+'''#DATA FOR 2014 TO 2015
 data1 = pd.read_csv('jun2014-jul2015.csv')
 headers1 = [ 'Date','Open','High', 'Low','Close','Volume']
 results1 = pd.DataFrame(data1)
@@ -52,17 +52,22 @@ plt.ylabel(' CLOSING VALUES')
 plt.title('STOCK MARKET IN JUNE 2016 to 2017')
 plt.show()
 
-
+'''
 #DATA FOR 2014 TO 2017
 data4 = pd.read_csv('JUN2014-2017.csv')
 headers4 = [ 'Date','Open','High', 'Low','Close','Volume']
+
 results4 = pd.DataFrame(data4)
 print(results4.head())
 results4['Average']= (results4['High'] + results4['Low'])/2
+print("THE DAYS WHEN THE CLOSING POINT WAS HIGHER THAN AVERAGE")
+print(data4[data4['Close'] > data4['Average']])
 data42 = data4[['Date','Close','High','Average']]
 avg = data42["Close"].mean()
 
 data42.plot(grid = True).axhline(y= avg,color = "black",lw =2)
+
+print(data4[data4.max()])
 
 plt.xlabel('DAYS')
 plt.ylabel(' CLOSING VALUES')
