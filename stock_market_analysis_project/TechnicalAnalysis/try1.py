@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 da1 = pd.read_csv('1month.csv')
 da = pd.DataFrame(da1)
 da =da[::-1]
-da.plot(x = 'Date', y = ['Close','Open','Low','High'],grid =True)
+da.plot(x = 'Date', y = ['Close','Open','Low','High'],grid =True,title = "ADBE SPDR S&P 500 ETF NYSE",legend = True,fontsize =12)
+
 plt.show()
 
 

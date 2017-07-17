@@ -2,177 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6c7ae0-cd65-4198-ae4e-8858b710ea05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/allstate/test1.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/prac112.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/abc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex15.txt.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exerccise20.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise11.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise14.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise15.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise16.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise17.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise18.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise19.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise20.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise21.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise22.txt.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise24.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise25.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise29.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise30.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise31.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise33.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise35.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise38.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise39.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise40.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise43.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise433.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise44.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise444.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise44c.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise44d.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise44e.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercise9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exercises9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/get-pip.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/goog.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/new_file.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nifty.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/numpy-1.13.0-cp34-none-win_amd64.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pop1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/praac63.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/praac65.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac100.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac101.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac102.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac103.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac104.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac105.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac106.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac107.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac108.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac109.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac11.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac110.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac111.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac14.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac15.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac16.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac17.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac18.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac19.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac20.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac21.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac22.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac23.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac24.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac25.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac26.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac27.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac28.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac29.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac30.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac31.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac33.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac34.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac35.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac36.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac37.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac38.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac39.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac40.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac41.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac42.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac42a.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac43.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac44.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac45.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac46.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac47.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac48.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac49.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac50.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac51.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac52.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac53.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac54.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac55.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac56.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac57.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac58.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac59.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac60.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac61.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac62.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac63.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac64.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac65.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac66.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac67.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac68.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac69.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac70.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac71.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac72.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac73.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac74.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac75.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac76.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac77.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac78.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac79.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac80.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac81.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac82.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac83.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac84.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac85.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac86.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac87.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac88.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac89.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac90.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac91.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac92.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac93.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac94.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac95.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac96.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac97.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac98.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prac99.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy-1.13.1+mkl-cp27-cp27m-win_amd64.whl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scipy-0.19.1-cp27-cp27m-win_amd64.whl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try2.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/titanic/~$intro.docx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/titanic/practice.py" afterPath="$PROJECT_DIR$/projects/titanic/practice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try1.py" afterPath="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -184,12 +21,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/allstate/test1.py">
+      <file leaf-file-name="try1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+            <state relative-caret-position="119">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practice.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/titanic/practice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,10 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prac73.py" />
-        <option value="$PROJECT_DIR$/prac74.py" />
-        <option value="$PROJECT_DIR$/prac75.py" />
-        <option value="$PROJECT_DIR$/prac76.py" />
         <option value="$PROJECT_DIR$/prac77.py" />
         <option value="$PROJECT_DIR$/prac78.py" />
         <option value="$PROJECT_DIR$/prac79.py" />
@@ -255,22 +112,26 @@
         <option value="$PROJECT_DIR$/nifty.py" />
         <option value="$PROJECT_DIR$/practice/nifty.py" />
         <option value="$PROJECT_DIR$/pop1.py" />
-        <option value="$PROJECT_DIR$/practice/pop1.py" />
         <option value="$PROJECT_DIR$/practice/pop.py" />
         <option value="$PROJECT_DIR$/practice/po.py" />
         <option value="$PROJECT_DIR$/practice/projectt.py" />
         <option value="$PROJECT_DIR$/projects/allstate/test1.py" />
+        <option value="$PROJECT_DIR$/stock_market_analysis_project/msft/p1.py" />
+        <option value="$PROJECT_DIR$/practice/pop1.py" />
+        <option value="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try1.py" />
+        <option value="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try2.py" />
+        <option value="$PROJECT_DIR$/projects/titanic/practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="558" />
-    <option name="y" value="23" />
-    <option name="width" value="706" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -283,7 +144,56 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stock_market_analysis_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stock_market_analysis_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnicalAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -300,7 +210,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.try2">
+    <configuration default="false" name="try2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,6 +293,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.try2" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.try2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -380,19 +316,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="558" y="23" width="706" height="735" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32576868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1384083" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -411,20 +347,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac80.py" />
-    <entry file="file://$PROJECT_DIR$/prac81.py" />
-    <entry file="file://$PROJECT_DIR$/prac83.py" />
-    <entry file="file://$PROJECT_DIR$/prac82.py" />
-    <entry file="file://$PROJECT_DIR$/prac84.py" />
-    <entry file="file://$PROJECT_DIR$/prac85.py" />
-    <entry file="file://$PROJECT_DIR$/prac86.py" />
-    <entry file="file://$PROJECT_DIR$/prac87.py" />
-    <entry file="file://$PROJECT_DIR$/prac88.py" />
-    <entry file="file://$PROJECT_DIR$/prac89.py" />
-    <entry file="file://$PROJECT_DIR$/prac92.py" />
-    <entry file="file://$PROJECT_DIR$/prac91.py" />
-    <entry file="file://$PROJECT_DIR$/prac90.py" />
-    <entry file="file://$PROJECT_DIR$/prac93.py" />
     <entry file="file://$PROJECT_DIR$/prac94.py" />
     <entry file="file://$PROJECT_DIR$/prac95.py" />
     <entry file="file://$PROJECT_DIR$/prac96.py" />
@@ -458,21 +380,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/prac104.py">
+    <entry file="file://$PROJECT_DIR$/practice/prac110.py" />
+    <entry file="file://$PROJECT_DIR$/nifty.py" />
+    <entry file="file://$PROJECT_DIR$/pop1.py" />
+    <entry file="file://$PROJECT_DIR$/practice/pop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/PROJECT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/po.py" />
+    <entry file="file://$PROJECT_DIR$/practice/projectt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/allstate/test.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/msft/MSFT.csv" />
+    <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/msft/p1.py" />
+    <entry file="file://$PROJECT_DIR$/practice/nifty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/allstate/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/pop1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac102.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/prac108.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/prac109.py">
+    <entry file="file://$PROJECT_DIR$/practice/prac12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -486,7 +456,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/prac110.py" />
+    <entry file="file://$PROJECT_DIR$/practice/prac106.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac107.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac105.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac108.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac109.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac104.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/prac103.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/prac111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -494,68 +512,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nifty.py" />
-    <entry file="file://$PROJECT_DIR$/pop1.py" />
-    <entry file="file://$PROJECT_DIR$/practice/pop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/PROJECT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/pop1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="44" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/po.py" />
-    <entry file="file://$PROJECT_DIR$/practice/nifty.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/projectt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/allstate/test.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/allstate/test1.py">
+    <entry file="file://$PROJECT_DIR$/practice/prac11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/1month.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_market_analysis_project/TechnicalAnalysis/try2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/titanic/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/titanic/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
