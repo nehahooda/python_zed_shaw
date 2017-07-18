@@ -1,3 +1,7 @@
+import pandas as pd
+da1 = pd.read_csv('1month.csv')
+
+
 def supres(ltp, n):
     """
     This function takes a numpy array of last traded price
@@ -41,4 +45,13 @@ def supres(ltp, n):
         if (s_1 == (n / 2)) and (s_2 == (n / 2)):
             support.append(ltp[i + ((n / 2) - 1)])
 
-    return support, resistance
+
+    print(support)
+    print(resistance)
+    return  support, resistance
+
+
+
+
+
+supres(da1['Close'],da1['Close'].count())
