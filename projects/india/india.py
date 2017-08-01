@@ -3,7 +3,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-#read the dataset provided
+#read the dataset providedn
 data= pd.read_csv('all.csv')
 print("Total number of samples in file : ", data.shape[0])
 

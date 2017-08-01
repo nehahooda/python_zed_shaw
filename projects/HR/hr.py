@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 data= pd.read_csv('HR.csv')
 print("Total number of samples in file : ", data.shape[0])
 
-'''# Let's look at the data first
+# Let's look at the data first
 print("A view of the  dataframe")
 print(data.head())
 print("\nColumns in  dataset : ", data.columns)
@@ -16,7 +16,7 @@ print("Overall description of the dataset : ")
 print(data.info())
 print("Overall numerical description of the data set")
 print(data.describe())
-'''
+
 print(data.StandardHours.nunique())#all 3 have same value for the all ids hence useless for analysis
 print(data.EmployeeCount.nunique())
 print(data.Over18.nunique())
@@ -25,7 +25,6 @@ del data['EmployeeCount']
 del data['Over18']
 print(pd.value_counts(data['YearsAtCompany'].values)[0]) #new joinees
 
-'''
 print(data.Department.nunique()) #unique departments-3
 print(data.PerformanceRating.nunique())#shows only 2 values 3 and 4 hence we cant trust the coloumn
 
@@ -79,18 +78,11 @@ ax1.set_title("Years at company wise Mean of Hourly rates")
 var.plot(kind='line',grid=True)
 plt.show()
 
-yes = pd.DataFrame()
-yes = data[data.Attrition == 'Yes']
-y=yes.DailyRate.mean()
 
-no = pd.DataFrame()
-no= data[data.Attrition == 'No']
-x=no.DailyRate.mean()
 
 COLUMNS = ['Gender', 'MaritalStatus', 'DistanceFromHome', 'Education','BusinessTravel']
 
 #look at the various factor that might affect attrition
-#for c in COLUMNS:
 var = data.groupby(data['Gender'],data['Attrition']).DailyRate.mean()
 
 print(var)
@@ -100,9 +92,9 @@ ax1.set_ylabel('Attrition')
 ax1.set_title("Factors affecting the Attrition")
 var.plot(kind='bar')
 plt.show()
-'''
 
 
+#look at other factor that are affecting the attrition
 COLUMNS = ['Age','DailyRate', 'EnvironmentSatisfaction', 'DistanceFromHome', 'JobInvolvement','JobLevel','JobSatisfaction','MonthlyIncome','TotalWorkingYears','TrainingTimesLastYear','WorkLifeBalance','YearsAtCompany','YearsInCurrentRole','YearsWithCurrManager']
 
 for c in COLUMNS:
@@ -110,5 +102,5 @@ for c in COLUMNS:
          ax.set_ylabel('Average '+c )
          ax.set_xlabel('Attrition')
          ax.set_title('Attrition with average of '+c)
-         data.groupby('Attrition').mean()[c].plot(kind='bar',figsize=(8,8), ax = ax)
+         data.groupby('Attrition').mean()[c].plot(kind='bar', ax = ax)
          plt.show()

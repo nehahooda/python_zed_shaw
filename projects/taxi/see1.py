@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -32,7 +33,7 @@ tf.plot(kind='pie', y = 'vendor_id', ax=ax1, autopct='%1.1f%%',
  startangle=90, shadow=False, labels=tf['vendor_id'], legend = False, fontsize=14)
 
 plt.show()
-'''
+
 #displaying trips on map
 sns.swarmplot(x='pickup_latitude',y='pickup_longitude',data= tf)
 tf.plot(x='vendor_id',y='trip_duration',grid=True)
@@ -77,5 +78,3 @@ plt.ylabel("Median of Trip duration")
 plt.grid()
 plt.show()
 
-
-'''

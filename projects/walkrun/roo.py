@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 #read the dataset provided
 data= pd.read_csv('dataset.csv')
-print("Total number of samples in train file : ", data.shape[0])
+print("Total number of samples in file : ", data.shape[0])
 
 # Let's look at the data first
 print("A view of the  dataframe")
@@ -19,6 +19,8 @@ print(data.describe())
 
 #removing user name as it doesnt help anywhere
 del data['username']
+del data['time']
+del data['date']
 
 
 # Moving on to the activity column
@@ -49,10 +51,21 @@ plt.show()
 
 
 
+SENSOR_DATA_COLUMNS = ['acceleration_x', 'acceleration_y', 'acceleration_z', 'gyro_x', 'gyro_y', 'gyro_z']
 
-sns.countplot(x='date',data =data,hue='activity')
-plt.show()
+# populate dataframe with 'left' wrist only
+df_left_wrist_data = pd.DataFrame()
+df_left_wrist_data = data[data.wrist == 0]
 
+# populate dataframe with 'right' wrist only
+df_right_wrist_data = pd.DataFrame()
+df_right_wrist_data = data[data.wrist == 1]
 
-sns.countplot(x='date',data =data,hue='wrist')
-plt.show()
+#plotting against acceleration and gyrometer
+for c in SENSOR_DATA_COLUMNS:
+    plt.figure(figsize=(10,5))
+    plt.title("Sensor data distribution for both wrists")
+    sns.distplot(df_left_wrist_data[c], label='left')
+    sns.distplot(df_right_wrist_data[c], label='right')
+    plt.legend()
+    plt.show()
